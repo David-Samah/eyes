@@ -9,9 +9,8 @@ function Play(){
 
 
 function Options(){
-    
-   document.getElementById('Options').innertext="0";
-    
+
+    window.location.href='options.html';
 }
 
 

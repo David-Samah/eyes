@@ -30,10 +30,11 @@ body{
 
 }
 
-.button{
+.menu button{
     display:flex;
-    flex-direction:center;
-}
+    border-radius:12px;
+    font-size:240%
+    }
 
 
 
